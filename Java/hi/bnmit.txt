@@ -1,0 +1,5 @@
+hi hello how are you
+we are learning dsa in java
+rcbbbbbbb!!!!
+all data inside the fie are string only by default
+ we will learn and evelop a simple app using spring
