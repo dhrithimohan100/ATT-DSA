@@ -66,7 +66,7 @@ public class Heap {
 
     public static void main(String[] args) {
         Heap maxHeap = new Heap();
-        maxHeap.insert(20);
+        maxHeap.insert(201);
         maxHeap.insert(30);
         maxHeap.insert(10);
         maxHeap.insert(40);
